@@ -1,0 +1,11 @@
+.color {
+    width: 100%;
+    height: 100px;  
+    background: black;      
+}
+.flex-container {
+    display: flex;
+}
+.flex-container > div {
+    margin-right: 20px;
+}
